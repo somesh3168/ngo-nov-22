@@ -1,0 +1,2 @@
+links for pyenv
+https://k0nze.dev/posts/install-pyenv-venv-vscode/
